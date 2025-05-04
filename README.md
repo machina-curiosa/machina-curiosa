@@ -1,10 +1,10 @@
-# Name of Machine
-Explanation of the Machine
+# Machina-Curiosa
+Curious machine.
 <pre>
-  pip install name-of-the-machine
+  pip install machina-curiosa
 </pre>
 Then:
 ```Python
   # Python
-  import name_of_the_machine
+  import machina_curiosa
 ```
